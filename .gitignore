@@ -1,0 +1,4 @@
+nsspell
+*.o
+.build/
+.DS_Store
